@@ -11,8 +11,8 @@ Accurate demand forecasting enables airlines to:
 - Support **strategic network expansion** decisions
 
 ## 📂 Dataset
-- **Source:** Public airline datasets (OpenFlights, FAA, or equivalent)
-- **Time Period:** Example — 2018–2023
+- **Source:** [US Airline Dataset - Kaggle](https://www.kaggle.com/datasets/shaivyac/us-airline-dataset)
+- **Time Period:** 2018–2023
 - **Key Fields:** Origin, Destination, Month, Year, Passengers, Revenue (if available)
 
 ## 🛠 Tools & Technologies
@@ -52,4 +52,3 @@ cd airline-demand-forecast
 # Run analysis notebook
 jupyter notebook airline_forecast.ipynb
 
-Dataset Link:https://www.kaggle.com/datasets/shaivyac/us-airline-dataset
